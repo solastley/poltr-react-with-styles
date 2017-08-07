@@ -1,10 +1,11 @@
 {
   "name": "@poltr/poltr-with-styles",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module that combines react-with-styles with a Poltr theme to create reusable styles in Poltr React components",
   "main": "./lib/withStyles.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
   },
   "keywords": [
     "poltr",
