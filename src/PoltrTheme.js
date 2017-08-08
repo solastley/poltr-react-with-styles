@@ -17,6 +17,7 @@ export default {
     darkBlue: '#405C84',
     lineGray: '#BAC5C8',
     lightGray: '#F4F5F6',
+    hoverGray: '#F7F8FA',
     link: '#3A57DD',
     font: '#24292E',
     fadedFont: '#A0A0A0',
