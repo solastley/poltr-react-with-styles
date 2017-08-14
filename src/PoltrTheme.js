@@ -22,6 +22,7 @@ export default {
     font: '#24292E',
     fadedFont: '#A0A0A0',
     white: '#FFFFFF',
+    error: '#CC0000',
   },
   responsive: {
     [BREAKPOINT_NAMES.SMALL]: `@media (max-width: ${breakpoints[BREAKPOINT_NAMES.MEDIUM_AND_ABOVE]}px)`,
